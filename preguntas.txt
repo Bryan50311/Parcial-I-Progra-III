@@ -28,4 +28,4 @@ utilizamos GitHub para dividir el proyecto en partes y luego integrarlas sin pro
 se encargó de desarrollar la parte de registro de los aparatos eléctricos, mientras que el otro trabajó en la parte de los cálculos de consumo y costos.
 Después, subimos nuestras partes a GitHub y pudimos unirlas fácilmente en un solo proyecto, revisando los cambios antes de combinarlos.
 
- 
+ .
