@@ -27,5 +27,4 @@ En lugar de que ambos editáramos el mismo archivo y corriéramos el riesgo de s
 utilizamos GitHub para dividir el proyecto en partes y luego integrarlas sin problemas. Por ejemplo, uno de nosotros
 se encargó de desarrollar la parte de registro de los aparatos eléctricos, mientras que el otro trabajó en la parte de los cálculos de consumo y costos.
 Después, subimos nuestras partes a GitHub y pudimos unirlas fácilmente en un solo proyecto, revisando los cambios antes de combinarlos.
-
 .
